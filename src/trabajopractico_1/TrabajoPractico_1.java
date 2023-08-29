@@ -15,7 +15,9 @@ public class TrabajoPractico_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) { 
-        System.out.println("Es es mi primer Trabajo practico.");
+        System.out.println(" Mi primer Trabajo practico.");
+        Presentacion alumno = new Presentacion(); 
+        alumno.Presentacion();
   
     }
     
